@@ -12,7 +12,6 @@
 
 - 📫 You can reach me at **risshab2singla@gmail.com**
 
-<br>
 
 ## 🌐 Accounts:
 
@@ -25,30 +24,47 @@
 
 [![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1Gleunmba9s8jR_IqHVi9fwoGTl0Fv2YL/view?usp=sharing)
 
-<br>
 
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering
   - CGPA: 9.39
 
-<br>
  
 ## 💼 Experience 
+
+- **CodSoft**(December 2023 - January 2024)
+   - Full Stack Web Development Internship
+   - [Offer Letter](https://drive.google.com/file/d/1qq5N2UYkYpqj216Ihc85JftkLKlV9G_4/view)
+
+- **Bharat Intern**(December 2023 - January 2024)
+  - Full Stack Web Development Internship
+  - [Offer Letter](https://drive.google.com/file/d/1nVuZEzBfJ8V_MT0CRu9NzFdaJNsZr6Gi/view)
+
+- **Sparks Foundation**(December 2023 - January 2024)
+  - Full Stack Web Development Internship
+  - [Offer Letter](https://truecertificates.com/verified/ZVLR7WKBHH)
+ 
+- **Ethnus Codemithra**(August 2023 - November 2023)
+  - MERN Full Stack Internship
+  - [Completion Certificate](https://drive.google.com/file/d/1_dY5--RG4nAmcJ_hRkl7tmMOG-n3GeIt/view?usp=sharing)
 
 - **Coding Ninjas** (May 2023 - September 2023)
   - Teaching Assistant(Remote)
   - [Certificate of Experience](https://ninjasfiles.s3.amazonaws.com/certificate7653497f0d2786a1be19a17ebc87dc802d84.pdf)
 
-<br>
+
 
 ## 🚀 Projects 
 
 - **Trivia Minefield**
-  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)
-  - [Deployment Link](https://triviaminefield.vercel.app/)
+  - Online Quiz Making Website
+  - Made using MERN Stack, designed using Tailwind CSS, implements user authentication
+  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)   [Deployment Link](https://triviaminefield.vercel.app/)
+- **ListenUp**
+  - Online podcast streaming Website
+  - [GitHub Repository](https://github.com/RisshabSingla/Ethnus-Project)   [Deployment Link](https://ethnus-project-frontend.vercel.app/)
 
-<br>
 
 # 💻 Technical Skills:
 **Programming Languages:**
