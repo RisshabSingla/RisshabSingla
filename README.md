@@ -25,11 +25,31 @@
 
 [![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1Gleunmba9s8jR_IqHVi9fwoGTl0Fv2YL/view?usp=sharing)
 
+<br>
+
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering
   - CGPA: 9.39
-  
+
+<br>
+ 
+## 💼 Experience 
+
+- **Coding Ninjas** (May 2023 - September 2023)
+  - Teaching Assistant(Remote)
+  - [Certificate of Experience](https://ninjasfiles.s3.amazonaws.com/certificate7653497f0d2786a1be19a17ebc87dc802d84.pdf)
+
+<br>
+
+## 🚀 Projects 
+
+- **Trivia Minefield**
+  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)
+  - [Deployment Link](https://triviaminefield.vercel.app/)
+
+<br>
+
 # 💻 Technical Skills:
 **Programming Languages:**
 
@@ -70,3 +90,20 @@
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=risshabsingla&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=risshabsingla&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+# 🏆 Achievements:
+
+- 🌟 Newbie Rating (1050) on Codeforces
+- 🌟 Solved 700+ problems on Data Structures and Algorithms.
+- 🌟 3 Star Coder on Codechef
