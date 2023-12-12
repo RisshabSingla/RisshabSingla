@@ -30,6 +30,17 @@
   - Bachelor of Technology - Computer Science and Engineering
   - CGPA: 9.39
 
+## 🚀 Projects 
+
+- **Trivia Minefield**
+  - Online Quiz Making Website
+  - Made using MERN Stack, designed using Tailwind CSS, implements user authentication
+  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)   [Deployment Link](https://triviaminefield.vercel.app/)
+- **ListenUp**
+  - Online podcast streaming Website
+  - [GitHub Repository](https://github.com/RisshabSingla/Ethnus-Project)   [Deployment Link](https://ethnus-project-frontend.vercel.app/)
+
+
  
 ## 💼 Experience 
 
@@ -39,7 +50,7 @@
 
 - **Bharat Intern**(December 2023 - January 2024)
   - Full Stack Web Development Internship
-  - [Offer Letter](https://drive.google.com/file/d/1nVuZEzBfJ8V_MT0CRu9NzFdaJNsZr6Gi/view)
+  - [Offer Letter](https://drive.google.com/file/d/1MntukSggu0Pt0QIGb61rcFGLgDBFlSdT/view?usp=sharing)
 
 - **Sparks Foundation**(December 2023 - January 2024)
   - Full Stack Web Development Internship
@@ -53,17 +64,6 @@
   - Teaching Assistant(Remote)
   - [Certificate of Experience](https://ninjasfiles.s3.amazonaws.com/certificate7653497f0d2786a1be19a17ebc87dc802d84.pdf)
 
-
-
-## 🚀 Projects 
-
-- **Trivia Minefield**
-  - Online Quiz Making Website
-  - Made using MERN Stack, designed using Tailwind CSS, implements user authentication
-  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)   [Deployment Link](https://triviaminefield.vercel.app/)
-- **ListenUp**
-  - Online podcast streaming Website
-  - [GitHub Repository](https://github.com/RisshabSingla/Ethnus-Project)   [Deployment Link](https://ethnus-project-frontend.vercel.app/)
 
 
 # 💻 Technical Skills:
