@@ -13,6 +13,7 @@
 - 📫 You can reach me at **risshab2singla@gmail.com**
 
 <br>
+
 ## 🌐 Accounts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/risshab-singla/) 
