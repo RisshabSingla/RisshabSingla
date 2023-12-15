@@ -48,18 +48,6 @@
    - Full Stack Web Development Internship
    - [Offer Letter](https://drive.google.com/file/d/1qq5N2UYkYpqj216Ihc85JftkLKlV9G_4/view)
 
-- **Bharat Intern**(December 2023 - January 2024)
-  - Full Stack Web Development Internship
-  - [Offer Letter](https://drive.google.com/file/d/1MntukSggu0Pt0QIGb61rcFGLgDBFlSdT/view?usp=sharing)
-
-- **Sparks Foundation**(December 2023 - January 2024)
-  - Full Stack Web Development Internship
-  - [Offer Letter](https://truecertificates.com/verified/ZVLR7WKBHH)
- 
-- **Ethnus Codemithra**(August 2023 - November 2023)
-  - MERN Full Stack Internship
-  - [Completion Certificate](https://drive.google.com/file/d/1_dY5--RG4nAmcJ_hRkl7tmMOG-n3GeIt/view?usp=sharing)
-
 - **Coding Ninjas** (May 2023 - September 2023)
   - Teaching Assistant(Remote)
   - [Certificate of Experience](https://ninjasfiles.s3.amazonaws.com/certificate7653497f0d2786a1be19a17ebc87dc802d84.pdf)
