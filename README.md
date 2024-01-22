@@ -22,7 +22,7 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1Gleunmba9s8jR_IqHVi9fwoGTl0Fv2YL/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/16Rioj86n6kM7luvF0bSJHC37lIA9g_FO/view?usp=sharing)
 
 
 ## 📚 Education 
