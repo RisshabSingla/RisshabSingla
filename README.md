@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Risshab Singla</h1>
-<h3 align="center"> Full Stack MERN Web Developer | Software Developer | Competitive Coder  </h3>
+<h3 align="center"> Full Stack MERN Developer | Software Developer | Competitive Coder | AWS Certified Cloud Practitioner  </h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?height=399&width=711&fit=bounds">
 
