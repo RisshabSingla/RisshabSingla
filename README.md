@@ -28,7 +28,7 @@
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering
-  - CGPA: 9.39
+  - CGPA: 9.41
 
 ## 🚀 Projects 
 
