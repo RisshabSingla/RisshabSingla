@@ -22,8 +22,19 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/16Rioj86n6kM7luvF0bSJHC37lIA9g_FO/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1O7ChBTyaBJRetsbcB02S7FVtIab_2jg-/view?usp=sharing)
 
+
+## 📈 Coding Profiles
+
+<span>
+<a href="https://codeforces.com/profile/risshab2singla">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=risshab2singla&theme=github_dark&force_username=true&border_color=404040" alt="Risshab Singla Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/Risshab_Singla/">
+<img height="316" src="https://leetcard.jacoblin.cool/Risshab_Singla?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Risshab_Singla/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Risshab Singla Leetcode Stats"/>
+</a>
+</span>
 
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
@@ -101,9 +112,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=risshabsingla&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=risshabsingla&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 # 🏆 Achievements:
