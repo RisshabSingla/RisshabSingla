@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 About Me 
 
 - I am a Full-Stack MERN Web Developer and Software Developer with a strong passion for learning new technologies.
-- Have Solved 400+ Problems on Leetcode
+- Have Solved 600+ Problems on Leetcode
 - Currently exploring Cloud Services such as AWS
 
 - 📫 You can reach me at **risshab2singla@gmail.com**
@@ -22,7 +22,7 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1O7ChBTyaBJRetsbcB02S7FVtIab_2jg-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1zDGPOE3kyGVNjoD7Md4GuIBl8yEVNfaN/view?usp=sharing)
 
 
 ## 📈 Coding Profiles
@@ -55,13 +55,13 @@
  
 ## 💼 Experience 
 
-- **CodSoft**(December 2023 - January 2024)
-   - Full Stack Web Development Internship
-   - [Offer Letter](https://drive.google.com/file/d/1qq5N2UYkYpqj216Ihc85JftkLKlV9G_4/view)
-
 - **Coding Ninjas** (May 2023 - September 2023)
   - Teaching Assistant(Remote)
   - [Certificate of Experience](https://ninjasfiles.s3.amazonaws.com/certificate7653497f0d2786a1be19a17ebc87dc802d84.pdf)
+    
+- **Valsco Technology Pvt. Ltd**(February 2024 - March 2024)
+   - Front End Web Development Internship
+   - [Certificate of Completion](https://drive.google.com/file/d/1fid9VW5Yep-50fJ1HC-FbJxISKj0fKiO/view?usp=sharing)
 
 
 
@@ -120,6 +120,7 @@
 
 # 🏆 Achievements:
 
-- 🌟 Newbie Rating (1050) on Codeforces
+- 🌟 Knight(1891) on LeetCode
+- 🌟 Newbie Rating (1179) on Codeforces
 - 🌟 Solved 700+ problems on Data Structures and Algorithms.
 - 🌟 3 Star Coder on Codechef
