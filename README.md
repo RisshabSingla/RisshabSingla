@@ -22,7 +22,7 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1zDGPOE3kyGVNjoD7Md4GuIBl8yEVNfaN/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1F8nUaWh4AHRkkZsm8BGzrBbmNpb5vQ0s/view?usp=sharing)
 
 
 ## 📈 Coding Profiles
