@@ -120,7 +120,7 @@
 
 # 🏆 Achievements:
 
-- 🌟 Knight(1891) on LeetCode
+- 🌟 Knight(1910) on LeetCode
 - 🌟 Newbie Rating (1179) on Codeforces
 - 🌟 Solved 700+ problems on Data Structures and Algorithms.
 - 🌟 3 Star Coder on Codechef
