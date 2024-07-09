@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 About Me 
 
 - I am a Full-Stack MERN Web Developer and Software Developer with a strong passion for learning new technologies.
-- Have Solved 600+ Problems on Leetcode
+- Have Solved 700+ Problems on Leetcode
 - Currently exploring Cloud Services such as AWS
 
 - 📫 You can reach me at **risshab2singla@gmail.com**
@@ -22,7 +22,7 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1g0ZE4ZtusnFAjQp0eRY7S_o23t2_ow4k/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1bdi3BVDSE3or63rzsQuCb1JJENZIdqim/view)
 
 
 ## 📈 Coding Profiles
@@ -39,14 +39,14 @@
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering
-  - CGPA: 9.41
+  - CGPA: 9.42
 
 ## 🚀 Projects 
 
 - **Trivia Minefield**
   - Online Quiz Making Website
   - Made using MERN Stack, designed using Tailwind CSS, implements user authentication
-  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)   [Deployment Link](https://triviaminefield.vercel.app/)
+  - [GitHub Repository](https://github.com/RisshabSingla/CodSoft_Task2)   [Deployment Link](https://triviaminefield.vercel.app/)  [Video Link](https://www.linkedin.com/posts/risshab-singla_triviaminefield-quiz-edtech-activity-7203034438237081600-kLoR?utm_source=share&utm_medium=member_desktop/)
 - **ListenUp**
   - Online podcast streaming Website
   - [GitHub Repository](https://github.com/RisshabSingla/Ethnus-Project)   [Deployment Link](https://ethnus-project-frontend.vercel.app/)
@@ -63,7 +63,12 @@
    - Front End Web Development Internship
    - [Certificate of Completion](https://drive.google.com/file/d/1fid9VW5Yep-50fJ1HC-FbJxISKj0fKiO/view?usp=sharing)
 
+# 🏆 Achievements:
 
+- 🌟 Knight(1910) on LeetCode
+- 🌟 Pupil (1225) on Codeforces
+- 🌟 Solved 700+ problems on Data Structures and Algorithms.
+- 🌟 3 Star Coder on Codechef
 
 # 💻 Technical Skills:
 **Programming Languages:**
@@ -116,11 +121,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=risshabsingla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=risshabsingla&theme=tokyonight&hide_border=false)<br/>
 
-
-
-# 🏆 Achievements:
-
-- 🌟 Knight(1910) on LeetCode
-- 🌟 Newbie Rating (1179) on Codeforces
-- 🌟 Solved 700+ problems on Data Structures and Algorithms.
-- 🌟 3 Star Coder on Codechef
